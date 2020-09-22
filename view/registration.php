@@ -20,7 +20,7 @@
                 
                     <div class="col-lg-12 ">
                         <form  class="form-horizontal"method="POST" action="">
-                            <h2 class="text-center">Register Here</h2><br>
+                            <h2 class="text-center">Register Here All</h2><br>
                             <div class="form-group">
                                 <label class="control-label col-sm-4">Name:</label>
                                 <div class="col-sm-5">
